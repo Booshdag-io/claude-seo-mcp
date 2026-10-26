@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "claude-seo-mcp": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
