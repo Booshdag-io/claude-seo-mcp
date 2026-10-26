@@ -1,0 +1,2 @@
+# Standard library JSON-RPC server (zero external heavy dependencies required)
+typing-extensions>=4.8.0
